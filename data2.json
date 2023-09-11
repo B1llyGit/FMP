@@ -12,7 +12,7 @@
    "Facial Hair": "Goatee-Blonde",
    "Mouth": "Straight",
    "Eyes": "Sports-Shades-Red",
-   "Status": "Free"
+   "inscriptionNumber": 783011
  },
  {
    "id": "0946bd5f572290017748700ef7226bc958e8890d55f69dfe42f270ef88e7ce36",
@@ -27,7 +27,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Sports-Shades-Red",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "0c00a6b7a0a2f2ffe1f82096b5056f8530716ffb4939daa789ec0bf420b0f892",
@@ -42,7 +42,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smile",
    "Eyes": "Orange-Eyes",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "f7c697cd7d1bdc91e0011c1061939e0b414f6f109b7c5a209ef9d96230afb7ce",
@@ -57,7 +57,7 @@
    "Facial Hair": "Full-Beard",
    "Mouth": "Cigar",
    "Eyes": "Lazer-Eyes-Red",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "4348c853c2c340e8121d428c275919e9c9a269d9ceb54c22877b558f598cdb22",
@@ -72,7 +72,7 @@
    "Facial Hair": "Goatee-Black",
    "Mouth": "Vape",
    "Eyes": "Aviators",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "db1e5386d657ee9615724fd7934125e9495a3fe685bb73761edf7fa447e16dc1",
@@ -87,7 +87,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Diamond-Grill",
    "Eyes": "Stoned",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "7367eca85756a3d526c53bea97c223efbeb729e15ace4e094c3e7052e65908ca",
@@ -102,7 +102,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Vape",
    "Eyes": "Side-Eye-Green",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "d7f525c4e80d72211a06061951cac4dae9e18c23884b228563aabf61823d001b",
@@ -117,7 +117,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Braces",
    "Eyes": "Nerd-Glasses",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "a75bbbc938374ea1af81312787c706f4be340af03f27103e098d323aec611aca",
@@ -132,7 +132,7 @@
    "Facial Hair": "Moustache-Black",
    "Mouth": "Joint",
    "Eyes": "Lazer-Eyes-Blue",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "0bdc44a00956c797a7e81b75608a802cc7329b8cfaffe04bd416c41677d2726c",
@@ -147,7 +147,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Gold-Grill",
    "Eyes": "Side-Eye-Blue",
-   "Status": "Taken"
+   "inscriptionNumber": null
  },
  {
    "id": "28b04718ee0acbe26c08d46d01c15951ee5bbea698768131c4ce2e2e9a1c1914",
@@ -162,7 +162,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Gold-Grill",
    "Eyes": "Look-Left-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "928151f5fdf6698e741966b4c192131d59765f4bccccc546501e15c45440880a",
@@ -177,7 +177,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Large-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "bbc81e03b62b003882566645ce77752dad66cf5c984d4847f3d77e91e159ee29",
@@ -192,7 +192,7 @@
    "Facial Hair": "Chin-Puff-Black",
    "Mouth": "Vape",
    "Eyes": "Side-Eye-Brown",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "5ae18cbd7085e63ded30b0f209ccf7806bd28e4bcd7ab0bce9bb329686ca65df",
@@ -207,7 +207,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Braces",
    "Eyes": "Look-Left-Brown",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "0e5663024ac09b7a38693fa0e36cce6b3318f13f507df71db453f67a878ca5a3",
@@ -222,7 +222,7 @@
    "Facial Hair": "Goatee-Ginger",
    "Mouth": "Smile",
    "Eyes": "Eyepatch-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "fd9290cdf99ec4f205e77e7e1944139eccba9ce3a849367ef406f45ca5e7fd84",
@@ -237,7 +237,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Joint",
    "Eyes": "Large-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "fa5cd0050ceb4df20a65a35ee049c920f64f3515743496a5e099bd78404e3423",
@@ -252,7 +252,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Cigarette",
    "Eyes": "Look-Left-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "81a0f57c51c16a9810f00a8369156a7dd820e938b754fea03cef5a21deaede82",
@@ -267,7 +267,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smile",
    "Eyes": "Side-Eye-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "564b91b4ee09ef60ed1b03a447b44a4193dcf83b41fc85a6e774ab487c591dac",
@@ -282,7 +282,7 @@
    "Facial Hair": "Chin-Puff-Blue",
    "Mouth": "Cigarette",
    "Eyes": "Sports-Shades-Red",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "7967f9c9ecd98eedef00b1ecd32e9caca9d56ec0d38353250172fcb1dba755da",
@@ -297,7 +297,7 @@
    "Facial Hair": "Full-Beard",
    "Mouth": "Gold-Grill",
    "Eyes": "Medium-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "4ca8578a79c8dfeda02327077c51597c1b8ca1690de972820cfb99989e9ad012",
@@ -312,7 +312,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smile",
    "Eyes": "Small-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "e205de1e73c2cccbb4184c4b9a665052268fea44fdd6b05616a21491638463c1",
@@ -327,7 +327,7 @@
    "Facial Hair": "Chin-Puff-Black",
    "Mouth": "Gold-Grill",
    "Eyes": "Medium-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "aa2cb59dbca8efc3f0713066afb8c844ba0a526e837cfe11e3bdac68450838e3",
@@ -342,7 +342,7 @@
    "Facial Hair": "Moustache-Black",
    "Mouth": "Straight",
    "Eyes": "Green-Eyes",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "40e3a7a6393c262bfcc58d6037673a76682d66f8a44edb3adfc2dd58fc3ed776",
@@ -357,7 +357,7 @@
    "Facial Hair": "Chin-Puff-Purple",
    "Mouth": "Braces",
    "Eyes": "Brown-Eyes",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "d89734b5b31934ea5204dd20f87dc93737db8bec6a5809997814cd12064cdd9a",
@@ -372,7 +372,7 @@
    "Facial Hair": "Shadow",
    "Mouth": "Straight",
    "Eyes": "Brown-Eyes",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "bc797fd835478afb8dc0183a7987423686c3c799cf644d63f5e5a8d5a2211839",
@@ -387,7 +387,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Look-Left-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "bfceaccfc999e99ee178e31fcaa2f0dda9812901c22c876a754e1e49794ac7d0",
@@ -402,7 +402,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Straight",
    "Eyes": "Nerd-Glasses",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "23123976cc23d0579381e573b2469131b8422d7e9db80a9bd5e1fcdf602bd8dc",
@@ -417,7 +417,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Suspicious",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "11be4eef51ad6ecd31e81354d2ad0f8c448e09bdc9df3dfd2e6a9511f2ba411f",
@@ -432,7 +432,7 @@
    "Facial Hair": "Chin-Puff-Black",
    "Mouth": "Cigarette",
    "Eyes": "Nerd-Glasses",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "de404e80f1aa81ab366a82be72987173bf4c30cafcfc1fe3331a07b801a1bed9",
@@ -447,7 +447,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Straight",
    "Eyes": "Suspicious",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "ad0f4945d0fe5a510dfe87abc5467cddbcdc80723b04fbffae58b0f8c7575c4b",
@@ -462,7 +462,7 @@
    "Facial Hair": "Goatee-Black",
    "Mouth": "Smile",
    "Eyes": "Deadman",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "e81d505f065879cad51c2f2ba96d3afbacba12d7556b09f5e2b02fc0561bc252",
@@ -477,7 +477,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Braces",
    "Eyes": "Suspicious",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "afe4011d515ff0306a51474e696137d27fd5e98b64294d12a3d48968cfc56be0",
@@ -492,7 +492,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Eyepatch-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "e5aa1fb39a8f4963575771a3967ab6e27d1e43bac9c21567dc37e83aa35419cd",
@@ -507,7 +507,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Joint",
    "Eyes": "Green-Eyes",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "bfc1dee104bb8a3d7660170b9fd8205769a90dc6a0aef2be64d8cd34eda87584",
@@ -522,7 +522,7 @@
    "Facial Hair": "Full-Beard",
    "Mouth": "Joint",
    "Eyes": "Medium-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "7294227a352182d0334057de076f8b6bc6a7f8018ebf495ec16ac45a175f9d17",
@@ -537,7 +537,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Straight",
    "Eyes": "Look-Left-Green",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "9b3504e137fa1cbbccf99abf7bb0940c08c810f649ade498dd717c5b5153cc8e",
@@ -552,7 +552,7 @@
    "Facial Hair": "Chin-Puff-Black",
    "Mouth": "Vape",
    "Eyes": "Look-Left-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "289ece2dc34bea6de4c039755daaa384ae7c76bd0f794f85878b474282b4ccca",
@@ -567,7 +567,7 @@
    "Facial Hair": "Shadow",
    "Mouth": "Vape",
    "Eyes": "Nerd-Glasses",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "1acf2490dcb496ed45e562597f9474fce4d8d242a1c4f487a54e999fd3fa6c8a",
@@ -582,7 +582,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Sports-Shades-Red",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "b6c10c057619db6112a27e6b5813dfc87151ff2be77269982bbfe8ad3fa381ae",
@@ -597,7 +597,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Straight",
    "Eyes": "Look-Left-Brown",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "e57e4987c885693a39272351e0aaa55241786618bbb69a5c9bb4262f40598faf",
@@ -612,7 +612,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Braces",
    "Eyes": "Green-Eyes",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "0cc068462ea2eaed675e72e36c4a1724e0bce904f25b1f0299bf49036fce1c6b",
@@ -627,7 +627,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Joint",
    "Eyes": "Side-Eye-Brown",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "33c94ddb4fcd7cb211763a04d5849e91d10aa2d97e35df8f2d1e7bbd7edb571f",
@@ -642,7 +642,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Gold-Grill",
    "Eyes": "Small-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "7d68784f932d3d39d23643264c18dccc353a2be47f45985225b5229fb2e585e1",
@@ -657,7 +657,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smile",
    "Eyes": "Green-Eyes",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "d8f0455c2f0660f9547b535c6d14bd1099fe13972c2b57f89cae7794d4f7758c",
@@ -672,7 +672,7 @@
    "Facial Hair": "Moustache-Black",
    "Mouth": "Gold-Grill",
    "Eyes": "Sports-Shades-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "04db6820a85c5d67e662cfbe0c3907250d3934f6df11bb33c8d870df34a43533",
@@ -687,7 +687,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Straight",
    "Eyes": "Blinking",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "e452624eac213d504ae4d5cb74e100cf12fe05d39abf42c73685db1e5db8714d",
@@ -702,7 +702,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Suspicious",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "7bfe0f02f2e11e4367fc4426246dbae54f38140dc29a74ac3d149b383f837afd",
@@ -717,7 +717,7 @@
    "Facial Hair": "Goatee-Black",
    "Mouth": "Vape",
    "Eyes": "Side-Eye-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "c08009ad52fa44fb9f43a24dcd04f4faed91b208d243f4d6881f7cd411b7c202",
@@ -732,7 +732,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Eyepatch-Green",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "2f3e6343b3059cd1486fdd8d105158eae598ff96af2711ce3b2b8d580046d4b6",
@@ -747,7 +747,7 @@
    "Facial Hair": "Goatee-Black",
    "Mouth": "Cigarette",
    "Eyes": "Eyepatch-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "880e46cf6246b42085a83bce71b116490b4a7607e857063f4a6d5dfdb4790947",
@@ -762,7 +762,7 @@
    "Facial Hair": "Chin-Puff-Purple",
    "Mouth": "Cigar",
    "Eyes": "Stoned",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "26ebbb9e205f74cf53a7692c45701f916f4bc8eea705b8b21dd40ecdff1b62b6",
@@ -777,7 +777,7 @@
    "Facial Hair": "Chin-Strap-Blonde",
    "Mouth": "Straight",
    "Eyes": "Eyepatch-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "ebb833307b51d4d0e1024d0c719a70670fd051f1f88841c48d779024442bf644",
@@ -792,7 +792,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Straight",
    "Eyes": "Look-Left-Brown",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "e8bfc24321970b895fc9847aaa03f257e62a570103b81236f92ebb799261a4c9",
@@ -807,7 +807,7 @@
    "Facial Hair": "Moustache-Blonde",
    "Mouth": "Straight",
    "Eyes": "Small-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "52075dcd2621356caaac12676fb71114ea43b8b77c946765bdfa43cdd0ea0c7a",
@@ -822,7 +822,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Vape",
    "Eyes": "Look-Left-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "4e1e11cf0141668573b51bb8ebe2ceb7459b8951711a42d6470241c74e7ce02f",
@@ -837,7 +837,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Look-Left-Brown",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "d62d73063bd8e9d72d2fd7351fee71ae8e9bb606c14d406a530a8b3ad20e6750",
@@ -852,7 +852,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Gold-Grill",
    "Eyes": "Lazer-Eyes-Red",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "4e3389d461a0c201e8c99e184bf70bc1ee29e90524d954ffdcd20bcfc8643a06",
@@ -867,7 +867,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Braces",
    "Eyes": "Small-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "0b59a00b27cc0cd0d29e5dc00a92e3f5584110c08f89e0803bef5314b9705f66",
@@ -882,7 +882,7 @@
    "Facial Hair": "Chin-Puff-Black",
    "Mouth": "Straight",
    "Eyes": "Medium-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "61bcc2dcabb67bd6f5d637786d0c93087dbfd03fd0ee44ba742d67d06a710d17",
@@ -897,7 +897,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Medium-Shades",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "72682acf92d3af3bf9f255cfe2ae71880299cfd9a74871584a2bc468716608de",
@@ -912,7 +912,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Vape",
    "Eyes": "Eyepatch-Orange",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "365e4b3a867b595582d034929ddadc269e9a9f4a95dd9b737ca283b590319248",
@@ -927,7 +927,7 @@
    "Facial Hair": "Moustache-Black",
    "Mouth": "Smile",
    "Eyes": "Blue-Eyes",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "06fd3786b3f15c1cf7830f317709a7eb9c2bf4dfc5442e34b12e45a0eea9ecc3",
@@ -942,7 +942,7 @@
    "Facial Hair": "Chin-Strap-Ginger",
    "Mouth": "Straight",
    "Eyes": "Lazer-Eyes-Red",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "e2d91e0c8c1d0fd93985a7e8f9b99d69e4e1a099557bf9bc2b3d56e1207d5fe0",
@@ -957,7 +957,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Eyepatch-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "5861af1eb0359c7eebb47e498b7eda0058f8772d05ae94a988cb4a47739cb6fe",
@@ -972,7 +972,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Vape",
    "Eyes": "Aviators",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "4395cde8e65358f6491b0ad1655ad1e9141ae230c3eda89e1e5bef20ca0c26c6",
@@ -987,7 +987,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Look-Left-Brown",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "ec4ad0d1723ddb188f24060c7347e5e2804b1777c203e96d2681b5e462206a58",
@@ -1002,7 +1002,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Braces",
    "Eyes": "Eyepatch-Green",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "cd4a187b77c05dbd8d50ae0bb00e60d5e1b7a774459a7f69afe4208ccb4865c9",
@@ -1017,7 +1017,7 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Sports-Shades-Blue",
-   "Status": "Free"
+   "inscriptionNumber": null
  },
  {
    "id": "95a57aedd630ecf112303d690e3a7ecefbdc58ea364c6f175ac095a23ac4635a",
@@ -1032,6 +1032,6 @@
    "Facial Hair": "Clean-Shaven",
    "Mouth": "Smirk",
    "Eyes": "Side-Eye-Green",
-   "Status": "Free"
+   "inscriptionNumber": null
  }
 ]
